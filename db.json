@@ -1,5 +1,6 @@
 {
 	"catalog": [
+		
 		{
 			"id": 1,
 			"title": "New Balance 450",
@@ -43,48 +44,6 @@
 		},
 		{
 			"id": 2,
-			"title": "Nike Jordan Air",
-			"price": 150,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/2_1.jpg",
-				"./catalog/shoes/2_2.jpg",
-				"./catalog/shoes/2_3.jpg",
-				"./catalog/shoes/2_4.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 3
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 0
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 3
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 2
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 5
-				}
-			],
-			"review": [],
-			"brand": "Nike",
-			"gender": "men"
-		},
-		{
-			"id": 3,
 			"title": "Nike",
 			"price": 180,
 			"category": "shoes",
@@ -125,34 +84,35 @@
 			"gender": "men"
 		},
 		{
-			"id": 4,
-			"title": "Nike white",
-			"price": 260,
-			"category": "shoes",
+			"id": 3,
+			"title": "Pant ZARA",
+			"price": 80,
+			"category": "pants",
 			"img": [
-				"./catalog/shoes/4_1.jpg",
-				"./catalog/shoes/4_2.jpg",
-				"./catalog/shoes/4_3.jpg"
+				"./catalog/pant/pant1.jpg",
+				"./catalog/pant/pant2.jpg",
+				"./catalog/pant/pant3.jpg",
+				"./catalog/pant/pant4.jpg"
 			],
 			"sizes": [
 				{
 					"id": 1,
-					"size": 38,
-					"inStock": 3
+					"size": 34,
+					"inStock": 5
 				},
 				{
 					"id": 2,
-					"size": 39,
-					"inStock": 4
-				},
-				{
-					"id": 3,
-					"size": 40,
+					"size": 36,
 					"inStock": 3
 				},
 				{
+					"id": 3,
+					"size": 38,
+					"inStock": 7
+				},
+				{
 					"id": 4,
-					"size": 41,
+					"size": 40,
 					"inStock": 0
 				},
 				{
@@ -162,267 +122,60 @@
 				}
 			],
 			"review": [],
-			"brand": "Nike",
+			"brand": "zara",
 			"gender": "men"
+		},
+		{
+			"id": 4,
+			"title": "Levis weekend",
+			"price": 140,
+			"category": "pants",
+			"img": [
+				"./catalog/pant/pant37.jpg",
+				"./catalog/pant/pant38.jpg",
+				"./catalog/pant/pant39.jpg",
+				"./catalog/pant/pant40.jpg"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": 34,
+					"inStock": 7
+				},
+				{
+					"id": 2,
+					"size": 36,
+					"inStock": 4
+				},
+				{
+					"id": 3,
+					"size": 38,
+					"inStock": 2
+				},
+				{
+					"id": 4,
+					"size": 40,
+					"inStock": 0
+				},
+				{
+					"id": 5,
+					"size": 42,
+					"inStock": 9
+				}
+			],
+			"review": [],
+			"brand": "levis",
+			"gender": "woman"
 		},
 		{
 			"id": 5,
-			"title": "Lacoste 270",
-			"price": 300,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/5_1.jpg",
-				"./catalog/shoes/5_2.jpg",
-				"./catalog/shoes/5_3.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 3
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 4
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 3
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 0
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 5
-				}
-			],
-			"review": [],
-			"brand": "Lacoste",
-			"gender": "men"
-		},
-		{
-			"id": 6,
-			"title": "Nike Air",
-			"price": 100,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/6_1.jpg",
-				"./catalog/shoes/6_2.jpg",
-				"./catalog/shoes/6_3.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 3
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 4
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 0
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 2
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 5
-				}
-			],
-			"review": [],
-			"brand": "Nike",
-			"gender": "woman"
-		},
-		{
-			"id": 7,
-			"title": "Nike Pink",
-			"price": 150,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/7_1.jpg",
-				"./catalog/shoes/7_2.jpg",
-				"./catalog/shoes/7_3.jpg",
-				"./catalog/shoes/7_4.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 3
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 4
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 0
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 2
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 5
-				}
-			],
-			"review": [],
-			"brand": "Nike",
-			"gender": "woman"
-		},
-		{
-			"id": 8,
-			"title": "Nike blue",
-			"price": 150,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/8_1.jpg",
-				"./catalog/shoes/8_2.jpg",
-				"./catalog/shoes/8_3.jpg",
-				"./catalog/shoes/8_4.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 3
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 4
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 3
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 2
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 0
-				}
-			],
-			"review": [],
-			"brand": "Nike",
-			"gender": "woman"
-		},
-		{
-			"id": 9,
-			"title": "Dolce&Gabbana/Nike",
-			"price": 350,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/9_1.jpg",
-				"./catalog/shoes/9_2.jpg",
-				"./catalog/shoes/9_3.jpg",
-				"./catalog/shoes/9_4.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 3
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 0
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 3
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 2
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 5
-				}
-			],
-			"review": [],
-			"brand": "DG",
-			"gender": "woman"
-		},
-		{
-			"id": 10,
-			"title": "Adidas 600",
-			"price": 200,
-			"category": "shoes",
-			"img": [
-				"./catalog/shoes/10_1.jpg",
-				"./catalog/shoes/10_2.jpg",
-				"./catalog/shoes/10_3.jpg"
-			],
-			"sizes": [
-				{
-					"id": 1,
-					"size": 38,
-					"inStock": 0
-				},
-				{
-					"id": 2,
-					"size": 39,
-					"inStock": 4
-				},
-				{
-					"id": 3,
-					"size": 40,
-					"inStock": 3
-				},
-				{
-					"id": 4,
-					"size": 41,
-					"inStock": 2
-				},
-				{
-					"id": 5,
-					"size": 42,
-					"inStock": 5
-				}
-			],
-			"review": [],
-			"brand": "Adidas",
-			"gender": "woman"
-		},
-		{
-			"id": 11,
-			"title": "Classic Tshort",
-			"price": 17,
+			"title": "Prada",
+			"price": 11,
 			"category": "t-short",
 			"img": [
-				"./catalog/Tshorts/tshort1.jpg",
-				"./catalog/Tshorts/tshort2.jpg",
-				"./catalog/Tshorts/tshort3.jpg"
+				"./catalog/Tshorts/tshort25.jpg",
+				"./catalog/Tshorts/tshort26.jpg",
+				"./catalog/Tshorts/tshort27.jpg"
 			],
 			"sizes": [
 				{
@@ -433,12 +186,94 @@
 				{
 					"id": 2,
 					"size": "M",
-					"inStock": 4
+					"inStock": 0
 				},
 				{
 					"id": 3,
 					"size": "L",
+					"inStock": 2
+				},
+				{
+					"id": 4,
+					"size": "XL",
 					"inStock": 0
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 5
+				}
+			],
+			"review": [],
+			"brand": "Prada",
+			"gender": "woman"
+		},
+		{
+			"id": 6,
+			"title": "Hugo Boss",
+			"price": 10,
+			"category": "t-short",
+			"img": [
+				"./catalog/Tshorts/tshort13.jpg",
+				"./catalog/Tshorts/tshort14.jpg",
+				"./catalog/Tshorts/tshort15.jpg"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 3
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 0
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 3
+				},
+				{
+					"id": 4,
+					"size": "XL",
+					"inStock": 2
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 5
+				}
+			],
+			"review": [],
+			"brand": "Hugo Boss",
+			"gender": "men"
+		},
+		{
+			"id": 7,
+			"title": "Gucci bord",
+			"price": 250,
+			"category": "sweatshirts",
+			"img": [
+				"./catalog/sweatshirts/3_1.jpg",
+				"./catalog/sweatshirts/3_2.jpg",
+				"./catalog/sweatshirts/3_3.jpg"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 3
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 0
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 3
 				},
 				{
 					"id": 4,
@@ -452,18 +287,18 @@
 				}
 			],
 			"review": [],
-			"brand": "Potter",
+			"brand": "Gucci",
 			"gender": "men"
 		},
 		{
-			"id": 12,
-			"title": "Polo",
-			"price": 15,
-			"category": "t-short",
+			"id": 8,
+			"title": "A&J green",
+			"price": 250,
+			"category": "sweatshirts",
 			"img": [
-				"./catalog/Tshorts/tshort4.jpg",
-				"./catalog/Tshorts/tshort5.jpg",
-				"./catalog/Tshorts/tshort6.jpg"
+				"./catalog/sweatshirts/6_1.jpg",
+				"./catalog/sweatshirts/6_2.jpg",
+				"./catalog/sweatshirts/6_3.jpg"
 			],
 			"sizes": [
 				{
@@ -475,6 +310,47 @@
 					"id": 2,
 					"size": "M",
 					"inStock": 4
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 3
+				},
+				{
+					"id": 4,
+					"size": "XL",
+					"inStock": 2
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 0
+				}
+			],
+			"review": [],
+			"brand": "A&J",
+			"gender": "woman"
+		},
+		{
+			"id": 9,
+			"title": "Nike Essential Gray",
+			"price": 45,
+			"category": "t-short",
+			"img": [
+				"./catalog/Tshorts/nike37.webp",
+				"./catalog/Tshorts/nike38.webp",
+				"./catalog/Tshorts/nike39.webp"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 6
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 3
 				},
 				{
 					"id": 3,
@@ -489,22 +365,104 @@
 				{
 					"id": 5,
 					"size": "XXL",
-					"inStock": 5
+					"inStock": 4
 				}
 			],
 			"review": [],
-			"brand": "Polo",
+			"brand": "Nike",
+			"gender": "woman"
+		},
+		{
+			"id": 10,
+			"title": "Nike Sportswear Mint",
+			"price": 30,
+			"category": "t-short",
+			"img": [
+				"./catalog/Tshorts/nike19.webp",
+				"./catalog/Tshorts/nike20.webp",
+				"./catalog/Tshorts/nike21.webp"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 6
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 3
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 1
+				},
+				{
+					"id": 4,
+					"size": "XL",
+					"inStock": 3
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 2
+				}
+			],
+			"review": [],
+			"brand": "Nike",
 			"gender": "men"
 		},
 		{
-			"id": 13,
-			"title": "Lacoste",
-			"price": 20,
+			"id": 11,
+			"title": "Nike Sportswear Aqua",
+			"price": 23,
 			"category": "t-short",
 			"img": [
-				"./catalog/Tshorts/tshort7.jpg",
-				"./catalog/Tshorts/tshort8.jpg",
-				"./catalog/Tshorts/tshort9.jpg"
+				"./catalog/Tshorts/nike16.webp",
+				"./catalog/Tshorts/nike17.webp",
+				"./catalog/Tshorts/nike18.webp"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 6
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 3
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 0
+				},
+				{
+					"id": 4,
+					"size": "XL",
+					"inStock": 3
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 2
+				}
+			],
+			"review": [],
+			"brand": "Nike",
+			"gender": "men"
+		},
+		{
+			"id": 12,
+			"title": "Prada",
+			"price": 11,
+			"category": "t-short",
+			"img": [
+				"./catalog/Tshorts/tshort25.jpg",
+				"./catalog/Tshorts/tshort26.jpg",
+				"./catalog/Tshorts/tshort27.jpg"
 			],
 			"sizes": [
 				{
@@ -515,17 +473,17 @@
 				{
 					"id": 2,
 					"size": "M",
-					"inStock": 4
+					"inStock": 0
 				},
 				{
 					"id": 3,
 					"size": "L",
-					"inStock": 0
+					"inStock": 2
 				},
 				{
 					"id": 4,
 					"size": "XL",
-					"inStock": 2
+					"inStock": 0
 				},
 				{
 					"id": 5,
@@ -534,18 +492,18 @@
 				}
 			],
 			"review": [],
-			"brand": "Lacoste",
-			"gender": "men"
+			"brand": "Prada",
+			"gender": "woman"
 		},
-			{
-			"id": 14,
-			"title": "DG",
-			"price": 18,
+		{
+			"id": 13,
+			"title": "Loewe",
+			"price": 8,
 			"category": "t-short",
 			"img": [
-				"./catalog/Tshorts/tshort10.jpg",
-				"./catalog/Tshorts/tshort11.jpg",
-				"./catalog/Tshorts/tshort12.jpg"
+				"./catalog/Tshorts/tshort22.jpg",
+				"./catalog/Tshorts/tshort23.jpg",
+				"./catalog/Tshorts/tshort24.jpg"
 			],
 			"sizes": [
 				{
@@ -566,6 +524,47 @@
 				{
 					"id": 4,
 					"size": "XL",
+					"inStock": 0
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 5
+				}
+			],
+			"review": [],
+			"brand": "Loewe",
+			"gender": "woman"
+		},
+		{
+			"id": 14,
+			"title": "Hugo Boss",
+			"price": 10,
+			"category": "t-short",
+			"img": [
+				"./catalog/Tshorts/tshort13.jpg",
+				"./catalog/Tshorts/tshort14.jpg",
+				"./catalog/Tshorts/tshort15.jpg"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 3
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 0
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 3
+				},
+				{
+					"id": 4,
+					"size": "XL",
 					"inStock": 2
 				},
 				{
@@ -575,10 +574,9 @@
 				}
 			],
 			"review": [],
-			"brand": "DG",
+			"brand": "Hugo Boss",
 			"gender": "men"
 		}
-		
 	],
 	"brands": [
 		{
