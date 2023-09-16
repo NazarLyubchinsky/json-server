@@ -537,6 +537,47 @@
 			"brand": "Lacoste",
 			"gender": "men"
 		},
+			{
+			"id": 14,
+			"title": "DG",
+			"price": 18,
+			"category": "t-short",
+			"img": [
+				"./catalog/Tshorts/tshort10.jpg",
+				"./catalog/Tshorts/tshort11.jpg",
+				"./catalog/Tshorts/tshort12.jpg"
+			],
+			"sizes": [
+				{
+					"id": 1,
+					"size": "S",
+					"inStock": 0
+				},
+				{
+					"id": 2,
+					"size": "M",
+					"inStock": 4
+				},
+				{
+					"id": 3,
+					"size": "L",
+					"inStock": 2
+				},
+				{
+					"id": 4,
+					"size": "XL",
+					"inStock": 2
+				},
+				{
+					"id": 5,
+					"size": "XXL",
+					"inStock": 5
+				}
+			],
+			"review": [],
+			"brand": "DG",
+			"gender": "men"
+		}
 		
 	],
 	"brands": [
